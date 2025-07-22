@@ -56,7 +56,7 @@ _Add screenshots here of your main screen and quiz screen for better visuals._
 
 ## ✨ Author
 
-Made with ❤️ by [Harshit Shekhar](https://github.com/your-username)
+Made with ❤️ by [Harshit Shekhar](https://github.com/harshit-shekhar)
 
 ---
 
