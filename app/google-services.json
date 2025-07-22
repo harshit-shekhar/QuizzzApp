@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "943664810108",
+    "firebase_url": "https://quizzapp-8ac3b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quizzapp-8ac3b",
+    "storage_bucket": "quizzapp-8ac3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943664810108:android:c530f866b39306a0bde1f9",
+        "android_client_info": {
+          "package_name": "com.harx.quizzzapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOMk4L1SZZnw7r3b2ghPngqso17BAidrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
